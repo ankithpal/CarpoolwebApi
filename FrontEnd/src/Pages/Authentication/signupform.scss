@@ -1,0 +1,38 @@
+.signupform{
+    height: 70%;
+    .inner-signupform{
+        width: 70%;
+        .signup-header{
+            height: 8vh;
+            color: white;
+            margin-top:2rem;
+            margin-bottom: 2rem;
+       }
+       .signup-form{
+            width: 83%;
+           height: 45%;
+          .signup-button{
+            .signup-button button{
+                width: 7rem;
+            }
+          }
+       }
+    }
+    .signup-text{
+        height: 8vh;
+        color: white;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+        .login-text{
+            font-size: 18px;
+            font-weight: bold;
+            text-decoration: none;
+            a {
+                color: #fff
+            }
+        }
+    }
+}
+link{
+    text-decoration: none;
+}
